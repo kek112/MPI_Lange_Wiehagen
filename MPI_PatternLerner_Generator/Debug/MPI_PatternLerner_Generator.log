@@ -1,0 +1,3 @@
+﻿  Generator.cpp
+c:\users\karl\source\repos\mpi_patternlerner_generator\mpi_patternlerner_generator\generator.cpp(36): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  MPI_PatternLerner_Generator.vcxproj -> c:\users\karl\source\repos\MPI_PatternLerner_Generator\Debug\MPI_PatternLerner_Generator.exe
