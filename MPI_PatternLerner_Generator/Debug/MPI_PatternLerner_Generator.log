@@ -1,3 +1,4 @@
-﻿  Generator.cpp
-c:\users\karl\source\repos\mpi_patternlerner_generator\mpi_patternlerner_generator\generator.cpp(36): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-  MPI_PatternLerner_Generator.vcxproj -> c:\users\karl\source\repos\MPI_PatternLerner_Generator\Debug\MPI_PatternLerner_Generator.exe
+﻿  MPI_lernendeSysteme.cpp
+c:\users\karl\source\kek112-mpi_langewiehagen_and_generator-bf00bde301f6\mpi_patternlerner_generator\mpi_lernendesysteme.cpp(119): warning C4101: "temp": Unreferenzierte lokale Variable
+c:\users\karl\source\kek112-mpi_langewiehagen_and_generator-bf00bde301f6\mpi_patternlerner_generator\mpi_lernendesysteme.cpp(140): warning C4101: "rank": Unreferenzierte lokale Variable
+  MPI_PatternLerner_Generator.vcxproj -> C:\Users\karl\source\kek112-mpi_langewiehagen_and_generator-bf00bde301f6\Debug\MPI_PatternLerner_Generator.exe
